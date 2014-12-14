@@ -1,15 +1,18 @@
 Bathroom Scout
 =============
 
-EN:
+EN:  
+
 This app is going to be the all new Frontent for the Bathroom Scout App. To use it for all mobile devices it is built with Ionic, HTML5 and Javascript. 
 
 The earnings of this open source app shall be dedicated to "Viva con aqua" - a charitable organisation based in St. Pauli, Hamburg (Germany), campaigning for clean drinking water worldwide. We appreciate anyone supporting the project with ideas, code, features, bug reports etc.
 
-Description:
+Description:  
+
 Using Bathroom Scout (formerly GoToilet) you can easily find about worldwide 700.000 restrooms close to you! This includes public toilets as well as restrooms in restaurants and other facilities. 
 
-The features include:
+The features include:  
+
     Displaying nearby toilets on the map (road and satellite view)
     Displaying nearby toilets in a list
     Turn by turn navigation to toilet
@@ -24,7 +27,8 @@ The features include:
 Toiletten Scout
 =============
 
-DE:
+DE:  
+
 Diese App wird das komplett neue Oberfläche für die mehrfach ausgezeichnete App Toiletten Scout. Um diese für alle mobilen Geräte nutzen zu können, werden Ionic, HTML5 und Javascript als Basistechnologien eingesetzt. 
 
 Die Einnahmen dieser Open Source App sollen dem Projekt "Viva con aqua" zugutekommen, einer sinnstiftenden Gemeinschaft, die sich für einen menschenwürdigen Zugang zu sauberem Trinkwasser und sanitärer Grundversorgung einsetzt.
